@@ -43,7 +43,6 @@ Antes de empezar, asegúrate de tener instalado lo siguiente:
    ```sql
     CREATE DATABASE tienda_db;
    ```
-> [!NOTE]
     > Es necesario que cree en su base de datos MySQL cree el schemas `tienda_db` y modificar las credencias en la ruta: appsettings.json:
     ```json
       "ConnectionStrings": {
@@ -67,10 +66,10 @@ Antes de empezar, asegúrate de tener instalado lo siguiente:
    Esto creará todas las tablas necesarias en la base de datos MySQL.
 
 6. **Ejecutar la API**
+   La API debería estar disponible en `https://localhost:5023`
   ```bash
    dotnet run
    ```
-  La API debería estar disponible en `https://localhost:5023`
 
 ### Probar la API
    Para probar la API, puedes usar Postman o cualquier cliente HTTP. Aquí hay un ejemplo de cómo probar la funcionalidad de agregar un producto a la lista de productos deseados:
