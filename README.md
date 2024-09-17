@@ -74,6 +74,6 @@ Antes de empezar, asegúrate de tener instalado lo siguiente:
 ### Probar la API
    Para probar la API, puedes usar Postman o cualquier cliente HTTP. Aquí hay un ejemplo de cómo probar la funcionalidad de agregar un producto a la lista de productos deseados:
   > [!NOTE]
-  > Se realizaron pruebas unitarias con postman puedes encontrar estos casos de uso en el siguiente link `[https://documenter.getpostman.com/view/31586031/2sAXjM3B9r](https://documenter.getpostman.com/view/31586031/2sAXqpAQ8B#1d89b836-42f7-42de-8a93-b91445d7b5f5)`.
+  > Se realizaron pruebas unitarias con postman puedes encontrar estos casos de uso en el siguiente link [Ejemplo de Uso Postman](https://documenter.getpostman.com/view/31586031/2sAXqpAQ8B#1d89b836-42f7-42de-8a93-b91445d7b5f5).
 
 
