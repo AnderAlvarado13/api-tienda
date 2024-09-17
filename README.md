@@ -43,7 +43,7 @@ Antes de empezar, asegúrate de tener instalado lo siguiente:
    ```sql
     CREATE DATABASE tienda_db;
    ```
-    > [!NOTE]
+> [!NOTE]
     > Es necesario que cree en su base de datos MySQL cree el schemas `tienda_db` y modificar las credencias en la ruta: appsettings.json:
     ```json
       "ConnectionStrings": {
@@ -66,7 +66,7 @@ Antes de empezar, asegúrate de tener instalado lo siguiente:
    ```
    Esto creará todas las tablas necesarias en la base de datos MySQL.
 
-6.**Ejecutar la API**
+6. **Ejecutar la API**
   ```bash
    dotnet run
    ```
